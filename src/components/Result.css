@@ -1,0 +1,13 @@
+.result {
+    /* flex: 0.4; */
+    background-color: white;
+    border: 1px solid lightblue;
+    /* width: 400px; */
+    border-radius: 16px;  
+    /* height: 10em; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 16px;
+  }
